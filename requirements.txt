@@ -18,3 +18,5 @@ aiogram>=3.4
 # Utilities
 fake-useragent>=1.5
 aiohttp>=3.9
+
+gunicorn
